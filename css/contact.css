@@ -1,0 +1,19 @@
+  body{ background-image:url('../fotos/fo.jpg');background-attachment:fixed;}
+       h1{color: #000;font-size: 50px;text-align: center;}
+       p{font-size: 14px;color:#fff;}
+       #container{
+       	margin: 5% 10% 5% 10%;
+        border: 1px solid #ccc;
+        background-image:url('../fotos/largo.jpg');
+        padding:0px 10px 10px 10px;
+       }
+       label{font-weight}
+       .lado {display:inline-block;
+        border: 0px solid:#000;
+        width: 300px;
+        height:25px;}
+          #cuadro{
+    width: 100%;  
+    border: 0;
+    height:227px;
+  }

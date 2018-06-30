@@ -1,0 +1,25 @@
+  body{ 
+    background-image:url('../fotos/fo.jpg');
+    background-attachment:fixed; margin: 0; padding: 0;
+  }
+  p{font-family: arial; font-size: 18px;}
+  #margenuno {
+    margin: 0% 10% 0% 10%;
+    width: 80%; 
+  }
+  #perros{color: #04B45F; font-family: algerian ;}
+  #en{color: #FA58F4; font-family:Harlow Solid Italic;}
+  #venta {color:#DBA901; font-family: algerian;}
+  .se{font-size: 18px;}
+  #vende{font-size: 25px;}
+  .visita{color:#40E0D0; font-size: 22px;}
+  .tamanofo{width: 150px;}
+
+  #cuadro{
+    margin:0;
+    padding: 0;
+    width: 100%;  
+    border: 0;
+    height:227px;
+  }
+  

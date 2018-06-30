@@ -1,0 +1,9 @@
+	body {background-image:url('../fotos/fo.jpg');background-attachment:fixed;
+          margin: 0 10% 0% 10%;
+}
+    h1{text-align: center;}
+      #cuadro{
+    width: 100%;  
+    border: 0;
+    height:227px;
+  }

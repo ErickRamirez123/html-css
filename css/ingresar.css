@@ -1,0 +1,12 @@
+  body{ background-image:url('../fotos/fo.jpg');background-attachment:fixed;}
+
+         #container{
+       	margin: 5% 10% 5% 10%;
+        border: 1px solid #ccc;
+        padding:0px 10px 10px 10px;}
+  #cuadro{
+    width: 100%;  
+    border: 0;
+    height:227px;
+  }
+        
